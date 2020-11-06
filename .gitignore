@@ -1,7 +1,9 @@
-_site/
-.sass-cache/
-.jekyll-metadata
-.idea/
-.jekyll-cache/
 */.tmp/
 */log/
+.idea/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+.tmp/
+_site/
+log/
