@@ -1,16 +1,16 @@
 # ----
 # Site
 
-title: qsmd.io
-url: "https://landing.qsmd.io/"
+title: fwdvibe.com
+url: "https://www.fwdvibe.com"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
-
+contact-email: peter@fwdvibe.com
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
-description: QSMD Email Forwarding Lists
+logo: /images/fwdvibe.png
+description: Email Forwarding Lists
 author:
   name: Peter Forret
   email: peter@forret.com
@@ -23,7 +23,7 @@ social:
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: Europe/Brussels
 
 collections:
   staff_members:
